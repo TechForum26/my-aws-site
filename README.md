@@ -42,5 +42,5 @@ sudo systemctl start apache2
 
 6. **Open your EC2 public IP in a browser**
 
-http://<your-ec2-ip>
+http://192.169.1.1 (inserting a sample IP address kindly replace it with your instance's IP address)
 
